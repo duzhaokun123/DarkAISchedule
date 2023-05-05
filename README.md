@@ -9,6 +9,10 @@
 
 仅测试于`1.1.0`版本
 
+## 下载
+
+https://github.com/Xposed-Modules-Repo/io.github.duzhaokun123.darkaischedule
+
 ## 已知问题
 
 - 登录失效
